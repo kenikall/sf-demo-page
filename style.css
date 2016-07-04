@@ -1,0 +1,132 @@
+body{
+	font-family: "Helvetica"
+}
+.name:link {
+    color: blue;
+}
+.name:visited {
+    color: red;
+}
+.name:hover {
+    color: purple;
+    font-size: large;
+}
+#marquee{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+#ryu{
+	background-image: url(images/jpn.png);
+	background-repeat: no-repeat;
+	background-size: 75px 50px;
+	background-position: 50px 0px;
+	width: 40%;
+}
+#honda{
+	background-image: url(images/jpn.png);
+	background-repeat: no-repeat;
+	background-size: 75px 50px;
+	background-position: 50px 0px;
+	width: 40%;
+}
+#blanka{
+	background-image: url(images/brazil-flag.gif);
+	background-repeat: no-repeat;
+	background-size: 75px 50px;
+	background-position: 50px 0px;
+	width: 40%;
+}
+#guile{
+	background-image: url(images/united-states-flag.gif);
+	background-repeat: no-repeat;
+	background-size: 75px 50px;
+	background-position: 50px 0px;
+	width: 40%;
+}
+#ken{
+	background-image: url(images/united-states-flag.gif);
+	background-repeat: no-repeat;
+	background-size: 75px 50px;
+	background-position: 50px 0px;
+	width: 40%;
+}
+#chun{
+	background-image: url(images/china-flag.jpg);
+	background-repeat: no-repeat;
+	background-size: 75px 50px;
+	background-position: 50px 0px;
+	width: 40%;
+}
+#zangief{
+	background-image: url(images/russian-federation-flag.gif);
+	background-repeat: no-repeat;
+	background-size: 75px 50px;
+	background-position: 50px 0px;
+	width: 40%;
+}
+#dhalsim{
+	background-image: url(images/india-flag.gif);
+	background-repeat: no-repeat;
+	background-size: 75px 50px;
+	background-position: 50px 0px;
+	width: 40%;
+}
+#balrog{
+	background-image: url(images/united-states-flag.gif);
+	background-repeat: no-repeat;
+	background-size: 75px 50px;
+	background-position: 50px 0px;
+	width: 60%;
+	padding-bottom: 50px;
+	margin-bottom: 25px;
+	border-radius: 30px;
+	border-style: solid;
+}
+#vega{
+	background-image: url(images/spain-flag.gif);
+	background-repeat: no-repeat;
+	background-size: 75px 50px;
+	background-position: 50px 0px;
+	width: 60%;
+	padding-bottom: 50px;
+	margin-bottom: 25px;
+	border-radius: 30px;
+	border-style: solid;
+}
+#sagat{
+	background-image: url(images/thailand-flag.gif);
+	background-repeat: no-repeat;
+	background-size: 75px 50px;
+	background-position: 50px 0px;
+	width: 60%;
+	padding-bottom: 50px;
+	margin-bottom: 25px;
+	border-radius: 30px;
+	border-style: solid;
+}
+#bison{
+	background-image: url(images/shadowlaw.jpg);
+	background-repeat: no-repeat;
+	background-size: 75px 50px;
+	background-position: 50px 0px;
+	width: 60%;
+	padding-bottom: 50px;
+	margin-bottom: 25px;
+	border-radius: 30px;
+	border-style: solid;
+}
+#foot{
+	padding-right: 100px; 
+	padding-left: 100px;
+}
+
+.info{
+	
+}
+.name{
+	display: inline-block;
+	vertical-align: text-top;
+	font-variant: small-caps;
+	font-style: bold;
+}
